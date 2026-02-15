@@ -39,8 +39,6 @@ The tool was originally used to track bosses in a game, highlighting which playe
 - The pattern used for detection can be customized depending on the game’s chat format.  
 - Works best with **high-contrast text** in the screenshots for accurate OCR.  
 
-## Possible Improvements / Future Work
-- Add multi-language support for text recognition  
-- Implement automatic Excel formatting for multiple bosses and channels  
-- Add GUI for easier configuration of screenshot area and pattern  
-- Log historical events for trend analysis or statistics  
+## Possible Improvements / Future Work  
+- Implement **manual window/area selection** for screenshots  
+- Add **pattern configuration**, so users can define custom detection rules  
